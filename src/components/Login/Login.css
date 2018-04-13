@@ -1,0 +1,15 @@
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+#text-center{
+    text-align: center!important;
+    margin-top: 150px;
+}
+#loginForm{
+    padding: 40px;
+    background: #f9f9f9;
+    border-radius: 5px;
+}

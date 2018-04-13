@@ -1,0 +1,14 @@
+.logo{
+    width: 190px;
+}
+.navbar{
+    min-height: 130px;
+}
+
+@media (min-width: 768px){
+    .nav-link{
+        margin-right: 20px!important;
+        font-size: 14px!important;
+        margin-top: 70px!important;
+    }    
+}

@@ -1,0 +1,31 @@
+body, html{
+    height: 100%;
+}
+.intro, .row{
+    height: 100%;
+}
+.leftSide{
+    position: relative;
+    text-align: center;
+}
+.leftSide h2{
+    font-size: 20px;
+}
+.welcomeLogo{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 33px;
+    margin: auto;
+    width: 190px;
+}
+.fullHeight{
+    height: 100%;
+}
+#welcomeContainer{
+    height: 100%;
+}
+.welcomeForm{
+    max-width: 250px;
+    margin: auto;
+}
